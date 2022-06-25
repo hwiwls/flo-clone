@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/activity_main.xml" value="0.24094202898550723" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/activity_song.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/activity_splash.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragmenat_search.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_album.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_banner.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_detail.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_home.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_locker.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_look.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_saved_song.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_song.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/fragment_video.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/item_album.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/item_locker_song.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/AndroidStudioProjects/app/src/main/res/layout/songfile_fragment.xml" value="0.2390625" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/a.xml" value="0.264" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/activity_song.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragmenat_search.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_album.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_banner.xml" value="0.17844202898550723" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_detail.xml" value="0.17844202898550723" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_locker.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_look.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_saved_song.xml" value="0.16576086956521738" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_song.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/fragment_video.xml" value="0.25364583333333335" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/item_album.xml" value="0.15217391304347827" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/item_locker_song.xml" value="0.264" />
+        <entry key="..\:/android-sdk/FLO/app/src/main/res/layout/songfile_fragment.xml" value="0.10235507246376811" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
